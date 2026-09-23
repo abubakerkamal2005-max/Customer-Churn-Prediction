@@ -1,0 +1,6 @@
+data/
+models/
+reports/
+__pycache__/
+.env
+.venv/
